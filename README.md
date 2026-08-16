@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-work%20in%20progress-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/visibility-private-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/visibility-public-lightgrey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/mood-relearning%20everything-blue?style=for-the-badge" />
 </p>
 
