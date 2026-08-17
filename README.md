@@ -1,5 +1,5 @@
 <h1 align="center">📚 zking's Learning Academy</h1>
-<p align="center"><i>Private learning repo — curated resources for game dev & programming</i></p>
+<p align="center"><i>Public learning repo — curated resources for game dev & programming</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-work%20in%20progress-yellow?style=for-the-badge" />
@@ -71,8 +71,6 @@
 
 ### ✨ Shaders (HLSL/GLSL)
 
-*New: useful once you're comfortable in Unity, Unreal, or Godot and want custom visuals.*
-
 | ✅ | Resource | Description |
 |---|---|---|
 | ⬜ | [The Book of Shaders](https://thebookofshaders.com/) | Excellent, visual, free intro to fragment shaders (GLSL) |
@@ -117,7 +115,7 @@
 
 ## 🧑‍💻 Programming Languages
 
-*General-purpose courses — not tied to game development.*
+*General-purpose courses*
 
 ### 🔷 C# (General, non-Game)
 
@@ -165,8 +163,6 @@
 
 ### 🐹 Go
 
-*New: fast, simple language from Google — great for backends, CLIs & cloud tooling.*
-
 | ✅ | Resource | Description |
 |---|---|---|
 | ⬜ | [A Tour of Go (official)](https://go.dev/tour/) | Official, interactive, in-browser intro straight from the Go team |
@@ -197,8 +193,6 @@
 
 ### 🟨 TypeScript
 
-*New: adds static typing on top of JavaScript — very common in modern web/tooling jobs.*
-
 | ✅ | Resource | Description |
 |---|---|---|
 | ⬜ | [Scrimba – Learn TypeScript (free, interactive)](https://scrimba.com/learn/learntypescript) | 4.2-hr interactive course incl. TypeScript-in-React module & free certificate |
@@ -209,8 +203,6 @@
 ---
 
 ## 🛠️ Tools & Version Control
-
-*New: not a language, but essential for literally every project above.*
 
 | ✅ | Resource | Description |
 |---|---|---|
