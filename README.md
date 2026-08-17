@@ -59,8 +59,6 @@
 
 ### 🟦 Godot (GDScript)
 
-*New: free, open-source engine — great lightweight alternative to Unity/Unreal, especially for 2D.*
-
 | ✅ | Resource | Description |
 |---|---|---|
 | ⬜ | [GDQuest – Learn GDScript From Zero](https://gdquest.github.io/learn-gdscript/) | Free, interactive, in-browser course — 27 bite-sized lessons, no prior experience needed |
