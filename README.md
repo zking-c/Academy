@@ -30,6 +30,9 @@
   - [🌙 Lua](#-lua)
   - [🌐 Web Development (HTML/CSS/JS)](#-web-development-htmlcssjs)
   - [🟨 TypeScript](#-typescript)
+  - [🐘 PHP](#-php)
+  - [🗄️ SQL](#️-sql)
+  - [🐦 Swift](#-swift)
 - [🛠️ Tools & Version Control](#️-tools--version-control)
 - [🔗 More Resources](#-more-resources)
 
@@ -197,6 +200,35 @@
 | ⬜ | [TypeScript Handbook (official)](https://www.typescriptlang.org/docs/handbook/intro.html) | The canonical, always-current reference from the TS team |
 | ⬜ | [Total TypeScript – Beginner's TypeScript (free)](https://www.totaltypescript.com/tutorials/beginners-typescript) | Sharp, free on-ramp focused on how the type system actually thinks |
 | ⬜ | [Exercism – TypeScript Track](https://exercism.org/tracks/typescript) | Free hands-on practice exercises with mentor feedback |
+
+### 🐘 PHP
+
+| ✅ | Resource | Description |
+|---|---|---|
+| ⬜ | [PHP Manual (official)](https://www.php.net/manual/en/getting-started.php) | The canonical reference from the language's creators — every function documented with examples; bookmark it, live in it |
+| ⬜ | [freeCodeCamp – PHP for Beginners](https://www.youtube.com/watch?v=BUCiSSyIGGU) | ~4.5-hr free video course covering syntax, strings, loops, forms & more |
+| ⬜ | [PHP The Right Way](https://phptherightway.com/) | Community-driven guide to modern PHP best practices — syntax, dependency management, security, structure |
+| ⬜ | [W3Schools – PHP Tutorial](https://www.w3schools.com/php/) | Simple, example-heavy reference with an in-browser "Try it Yourself" editor |
+| ⬜ | [Laravel Bootcamp (official, free)](https://bootcamp.laravel.com/) | Once the basics click, this builds a real app with PHP's most popular framework |
+
+### 🗄️ SQL
+
+| ✅ | Resource | Description |
+|---|---|---|
+| ⬜ | [SQLBolt](https://sqlbolt.com/) | Short, interactive lessons with an exercise attached to every concept — fast, clean, in-browser |
+| ⬜ | [Mode – SQL Tutorial](https://mode.com/sql-tutorial/) | Well-structured, practical tutorial going from basic queries to more advanced analysis |
+| ⬜ | [SQLZoo](https://sqlzoo.net/) | Interactive tutorial using real-world datasets; a longstanding gold standard for SQL practice |
+| ⬜ | [freeCodeCamp – Relational Databases Certification](https://www.freecodecamp.org/learn/relational-database/) | Hands-on, command-line-based curriculum covering SQL & database fundamentals |
+| ⬜ | [Khan Academy – Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql) | Beginner-friendly, fully free, runs in an embedded editor with no install needed |
+
+### 🐦 Swift
+
+| ✅ | Resource | Description |
+|---|---|---|
+| ⬜ | [The Swift Programming Language (official book)](https://docs.swift.org/swift-book/) | Free, official language reference straight from Apple/the Swift team |
+| ⬜ | [100 Days of Swift (Hacking with Swift)](https://www.hackingwithswift.com/100) | Free daily-lesson course teaching core Swift before moving into app-building |
+| ⬜ | [100 Days of SwiftUI (Hacking with Swift)](https://www.hackingwithswift.com/100/swiftui) | The natural follow-up — structured, project-based, most-recommended free path into SwiftUI |
+| ⬜ | [Stanford CS193p – Developing Apps for iOS](https://cs193p.sites.stanford.edu/) | University-grade course (free on YouTube); builds real apps, goes deep on Swift's type system & MVVM |
 
 ---
 
