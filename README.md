@@ -249,4 +249,4 @@
 
 ---
 
-<p align="center"><i>🔁 Updated continuously — check off a course once it's done.</i></p>
+<p align="center"><i>🔁 Updated continuously</i></p>
