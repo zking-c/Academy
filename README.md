@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" />
 </p>
 <p align="center"><sub>Started as one person's "relearn everything" list — now open for anyone to use, fork, and build on. 🙌</sub></p>
----
 
 ## 📑 Table of Contents
 * [🧩 Learn by Playing (Gamified Coding Sites)](#-learn-by-playing-gamified-coding-sites)
