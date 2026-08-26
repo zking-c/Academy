@@ -284,18 +284,6 @@ Libraries, frameworks, databases, and communication tools for building modern we
 
 ---
 
-## 🤝 Contributing
-This list is meant to grow with input from anyone who finds it useful — pull requests are welcome!
-
-1. Add resources to the section they best fit, keeping the existing table format: `| [Name](url) | One-line description |`.
-2. Start a resource's description with 🎮 if it's an interactive/gamified site rather than a video, book, or doc.
-3. Keep descriptions short, neutral, and in the same style as the surrounding rows.
-4. Prefer free resources; if something isn't free, say so in the description.
-5. Before adding something, do a quick search of the file to make sure it isn't already listed elsewhere.
-6. Not comfortable opening a pull request? Opening an issue with your suggestion works just as well.
-
----
-
 ## 🔗 More Resources
 * **FMHY – Educational Resources**
 
