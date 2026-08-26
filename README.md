@@ -31,11 +31,11 @@
     * [🟨 TypeScript](#-typescript)
     * [⚛️ Frameworks & Libraries](#️-frameworks--libraries)
     * [🖥️ Desktop Apps (Electron & Co.)](#️-desktop-apps-electron--co)
+    * [🎮 Gamified JavaScript Practice](#-gamified-javascript-practice)
   * [🐘 PHP](#-php)
   * [🗄️ SQL](#️-sql)
   * [🐦 Swift](#-swift)
 * [🛠️ Tools & Version Control](#️-tools--version-control)
-* [🤝 Contributing](#-contributing)
 * [🔗 More Resources](#-more-resources)
 
 ---
@@ -205,7 +205,6 @@ Everything major for learning JS itself — browser, server, and everything in b
 | JavaScript30 (Wes Bos, free) | 30 vanilla-JS build-alongs, no frameworks or libraries — pure hands-on practice |
 | freeCodeCamp – JavaScript Algorithms and Data Structures | Certification covering JS fundamentals, OOP, functional programming & algorithms |
 | Node.js – Official "Learn" Docs | Once you know JS in the browser, this is the official guide to running it server-side |
-| Screeps | 🎮 A real always-running MMO strategy game where the gameplay itself is the JavaScript you write |
 
 #### 🟨 TypeScript
 | Resource | Description |
@@ -237,6 +236,12 @@ Libraries, frameworks, databases, and communication tools for building modern we
 | --- | --- |
 | Electron – Official Docs & Tutorial | Package a JS/HTML/CSS web app as a cross-platform (Windows/Mac/Linux) desktop app |
 | Tauri – Official Docs | Lighter, Rust-powered alternative to Electron — smaller app size, same basic idea |
+
+#### 🎮 Gamified JavaScript Practice
+| Resource | Description |
+| --- | --- |
+| Screeps | 🎮 A real always-running MMO strategy game where the gameplay itself is the JavaScript you write |
+| CheckiO (JavaScript Track) | 🎮 Solve JavaScript puzzles to guide a character through a game world |
 
 ### 🐘 PHP
 | Resource | Description |
