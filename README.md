@@ -1,4 +1,4 @@
-<h1 align="center">📚 The Programming & Game Dev Learning Hub</h1>
+<h1 align="center">📚 Academy </h1>
 <p align="center"><i>A free, community-curated collection of the best courses, docs, and interactive sites for learning to code and make games — for absolute beginners and old hands alike.</i></p>
 <p align="center">
   <img src="https://img.shields.io/badge/status-work%20in%20progress-yellow?style=for-the-badge" />
@@ -6,12 +6,6 @@
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" />
 </p>
 <p align="center"><sub>Started as one person's "relearn everything" list — now open for anyone to use, fork, and build on. 🙌</sub></p>
-
-## 🧭 How to Use This List
-* Everything here is free unless a description says otherwise.
-* 🎮 marks resources that are interactive / gamified — you learn by actually playing rather than watching a video or reading docs.
-* Prefer reading over watching, or vice versa? The tables mix videos, books, docs, and interactive sites on purpose — pick what fits how you learn.
-
 ---
 
 ## 📑 Table of Contents
